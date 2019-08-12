@@ -1,0 +1,14 @@
+[requires]
+catch2/2.2.1@bincrafters/stable
+fmt/5.3.0@bincrafters/stable
+
+[generators]
+cmake
+
+[options]
+boost:shared=False
+boost:header_only=False
+
+[imports]
+bin, *.dll -> ./bin
+lib, *.lib -> ./bin
