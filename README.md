@@ -8,7 +8,7 @@ The project includes:
 * Easy to extend examples
 * Conan based dependency management
 
-## Getting stared
+## Getting started
 
 Fork on GitHub or simply clone and rip out all the files you need, copying them to your own project folder.
 
