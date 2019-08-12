@@ -27,6 +27,7 @@ Change the `PROJECT_NAME` in the top level CMakelists.txt to something more mean
 set(PROJECT_NAME "my_lib")
 ```
 
-Change the dependencies in the `conanfile.txt` file. Cmake an start coding.
+Change the dependencies in the `conanfile.txt` file.
 
-CMake and start working... Btw.: `./build` folder is already included in `.gitignore`.
+CMake and start coding...the tests first of course. 
+Btw. `./build` folder is already included in `.gitignore`.
